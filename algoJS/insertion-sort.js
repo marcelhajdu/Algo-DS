@@ -11,6 +11,41 @@ insertionSort([1,2,9,76,4])
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function insertionSort(arr){
 	//definiálunk egy currentVal-t
 	var currentVal;
